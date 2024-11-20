@@ -57,7 +57,7 @@ android {
         release {
             storeFile file("sign/key.jks")
             storePassword "b9941e60"
-            keyAlias "info@hatrix.de"
+            keyAlias "hatrix"
             keyPassword "b9941e60"
         }
     }
