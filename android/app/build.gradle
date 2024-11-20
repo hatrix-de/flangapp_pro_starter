@@ -56,9 +56,9 @@ android {
     signingConfigs {
         release {
             storeFile file("sign/key.jks")
-            storePassword "YBeGCvrLsXOKHnUv"
-            keyAlias "YHazMuaUgE"
-            keyPassword "YBeGCvrLsXOKHnUv"
+            storePassword "b9941e60"
+            keyAlias "info@hatrix.de"
+            keyPassword "b9941e60"
         }
     }
 
