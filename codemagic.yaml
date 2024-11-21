@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://api.sharkhub.digital/public/observe/notice?uid=af44a2be-f61a-9192-b623-3aa41fd7586c
+            curl https://api.sharkhub.digital/public/observe/notice?uid=b6a7cb27-ee64-1c2d-6196-81774a9c5039
